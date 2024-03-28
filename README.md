@@ -4,5 +4,6 @@ Name: Yasaswini Majety ID: 700747747
 
 Types of ANNs and Recurrent Neural Network.
 
-Code File -  
-Document-
+Code File: Neural-ICP10-700747747.ipynb
+
+Document: Neural-ICP10-700747747.pdf
